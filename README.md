@@ -40,10 +40,10 @@ Navigasyon menüsünün dikey görünümü
 
 Avantajlar bölümünde 2 sütunlu mobil düzen
 
-![Ana Sayfa Görüntüsü](desing/tasarim_desktop.jpg)
-![Mobil Görüntüsü](design/tasarim_mobil.jpg)
-![Mobil Görüntüsü](design-1/tasarim_mobil.jpg) 
-![Mobil Görüntüsü](design-2/tasarim_mobil.jpg) 
+[Ana Sayfa Görüntüsü](desing/tasarim_desktop.jpg)
+[Mobil Görüntüsü](design/tasarim_mobil.jpg)
+[Mobil Görüntüsü](design-1/tasarim_mobil.jpg) 
+[Mobil Görüntüsü](design-2/tasarim_mobil.jpg) 
 
 🎯 Gallery-Responsive-Challenge
 
